@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A **Java-based Library Management System** developed using **Java Swing** and **MySQL**, designed to manage library operations efficiently with a simple and user-friendly interface.
+A **Java-based Library Management System** developed using **NetBeans** and **MySQL**, designed to manage library operations efficiently with a simple and user-friendly interface.
 
 ---
 
